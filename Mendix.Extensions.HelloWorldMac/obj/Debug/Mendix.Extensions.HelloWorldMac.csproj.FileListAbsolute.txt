@@ -1,0 +1,13 @@
+/Volumes/[C] Windows 10/MxProjects/Extensions/extensions/Mendix.Extensions.HelloWorldMac/Mendix.Extensions.HelloWorldMac.deps.json
+/Volumes/[C] Windows 10/MxProjects/Extensions/extensions/Mendix.Extensions.HelloWorldMac/Mendix.Extensions.HelloWorldMac.dll
+/Volumes/[C] Windows 10/MxProjects/Extensions/extensions/Mendix.Extensions.HelloWorldMac/Mendix.Extensions.HelloWorldMac.pdb
+/Users/conner.charlebois/Projects/Mendix.Extensions.HelloWorldMac/Mendix.Extensions.HelloWorldMac/obj/Debug/Mendix.Extensions.HelloWorldMac.csproj.AssemblyReference.cache
+/Users/conner.charlebois/Projects/Mendix.Extensions.HelloWorldMac/Mendix.Extensions.HelloWorldMac/obj/Debug/Mendix.Extensions.HelloWorldMac.GeneratedMSBuildEditorConfig.editorconfig
+/Users/conner.charlebois/Projects/Mendix.Extensions.HelloWorldMac/Mendix.Extensions.HelloWorldMac/obj/Debug/Mendix.Extensions.HelloWorldMac.AssemblyInfoInputs.cache
+/Users/conner.charlebois/Projects/Mendix.Extensions.HelloWorldMac/Mendix.Extensions.HelloWorldMac/obj/Debug/Mendix.Extensions.HelloWorldMac.AssemblyInfo.cs
+/Users/conner.charlebois/Projects/Mendix.Extensions.HelloWorldMac/Mendix.Extensions.HelloWorldMac/obj/Debug/Mendix.Extensions.HelloWorldMac.csproj.CoreCompileInputs.cache
+/Users/conner.charlebois/Projects/Mendix.Extensions.HelloWorldMac/Mendix.Extensions.HelloWorldMac/obj/Debug/Mendix.Extensions.HelloWorldMac.dll
+/Users/conner.charlebois/Projects/Mendix.Extensions.HelloWorldMac/Mendix.Extensions.HelloWorldMac/obj/Debug/refint/Mendix.Extensions.HelloWorldMac.dll
+/Users/conner.charlebois/Projects/Mendix.Extensions.HelloWorldMac/Mendix.Extensions.HelloWorldMac/obj/Debug/Mendix.Extensions.HelloWorldMac.pdb
+/Users/conner.charlebois/Projects/Mendix.Extensions.HelloWorldMac/Mendix.Extensions.HelloWorldMac/obj/Debug/ref/Mendix.Extensions.HelloWorldMac.dll
+/Volumes/[C] Windows 10/MxProjects/Extensions/extensions/Mendix.Extensions.HelloWorldMac/manifest.json

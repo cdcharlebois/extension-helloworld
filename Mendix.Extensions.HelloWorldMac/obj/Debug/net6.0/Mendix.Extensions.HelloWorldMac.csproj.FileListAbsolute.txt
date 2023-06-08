@@ -1,0 +1,12 @@
+/Users/conner.charlebois/Projects/Mendix.Extensions.HelloWorldMac/Mendix.Extensions.HelloWorldMac/bin/Debug/net6.0/Mendix.Extensions.HelloWorldMac.deps.json
+/Users/conner.charlebois/Projects/Mendix.Extensions.HelloWorldMac/Mendix.Extensions.HelloWorldMac/bin/Debug/net6.0/Mendix.Extensions.HelloWorldMac.dll
+/Users/conner.charlebois/Projects/Mendix.Extensions.HelloWorldMac/Mendix.Extensions.HelloWorldMac/bin/Debug/net6.0/Mendix.Extensions.HelloWorldMac.pdb
+/Users/conner.charlebois/Projects/Mendix.Extensions.HelloWorldMac/Mendix.Extensions.HelloWorldMac/obj/Debug/net6.0/Mendix.Extensions.HelloWorldMac.csproj.AssemblyReference.cache
+/Users/conner.charlebois/Projects/Mendix.Extensions.HelloWorldMac/Mendix.Extensions.HelloWorldMac/obj/Debug/net6.0/Mendix.Extensions.HelloWorldMac.GeneratedMSBuildEditorConfig.editorconfig
+/Users/conner.charlebois/Projects/Mendix.Extensions.HelloWorldMac/Mendix.Extensions.HelloWorldMac/obj/Debug/net6.0/Mendix.Extensions.HelloWorldMac.AssemblyInfoInputs.cache
+/Users/conner.charlebois/Projects/Mendix.Extensions.HelloWorldMac/Mendix.Extensions.HelloWorldMac/obj/Debug/net6.0/Mendix.Extensions.HelloWorldMac.AssemblyInfo.cs
+/Users/conner.charlebois/Projects/Mendix.Extensions.HelloWorldMac/Mendix.Extensions.HelloWorldMac/obj/Debug/net6.0/Mendix.Extensions.HelloWorldMac.csproj.CoreCompileInputs.cache
+/Users/conner.charlebois/Projects/Mendix.Extensions.HelloWorldMac/Mendix.Extensions.HelloWorldMac/obj/Debug/net6.0/Mendix.Extensions.HelloWorldMac.dll
+/Users/conner.charlebois/Projects/Mendix.Extensions.HelloWorldMac/Mendix.Extensions.HelloWorldMac/obj/Debug/net6.0/refint/Mendix.Extensions.HelloWorldMac.dll
+/Users/conner.charlebois/Projects/Mendix.Extensions.HelloWorldMac/Mendix.Extensions.HelloWorldMac/obj/Debug/net6.0/Mendix.Extensions.HelloWorldMac.pdb
+/Users/conner.charlebois/Projects/Mendix.Extensions.HelloWorldMac/Mendix.Extensions.HelloWorldMac/obj/Debug/net6.0/ref/Mendix.Extensions.HelloWorldMac.dll
