@@ -1,3 +1,4 @@
+/Volumes/[C] Windows 10/MxProjects/Extensions/extensions/Mendix.Extensions.HelloWorldMac/manifest.json
 /Volumes/[C] Windows 10/MxProjects/Extensions/extensions/Mendix.Extensions.HelloWorldMac/Mendix.Extensions.HelloWorldMac.deps.json
 /Volumes/[C] Windows 10/MxProjects/Extensions/extensions/Mendix.Extensions.HelloWorldMac/Mendix.Extensions.HelloWorldMac.dll
 /Volumes/[C] Windows 10/MxProjects/Extensions/extensions/Mendix.Extensions.HelloWorldMac/Mendix.Extensions.HelloWorldMac.pdb
@@ -10,4 +11,3 @@
 /Users/conner.charlebois/Projects/Mendix.Extensions.HelloWorldMac/Mendix.Extensions.HelloWorldMac/obj/Debug/refint/Mendix.Extensions.HelloWorldMac.dll
 /Users/conner.charlebois/Projects/Mendix.Extensions.HelloWorldMac/Mendix.Extensions.HelloWorldMac/obj/Debug/Mendix.Extensions.HelloWorldMac.pdb
 /Users/conner.charlebois/Projects/Mendix.Extensions.HelloWorldMac/Mendix.Extensions.HelloWorldMac/obj/Debug/ref/Mendix.Extensions.HelloWorldMac.dll
-/Volumes/[C] Windows 10/MxProjects/Extensions/extensions/Mendix.Extensions.HelloWorldMac/manifest.json

@@ -15,7 +15,7 @@ public class WebViewBrowserTabView
         function init()
         {
             window.chrome.webview.addEventListener('message', msgHandler);
-            sendMessage();
+            sendMessage(""pageLoad"");
         }
 
         function msgHandler(event)
@@ -23,14 +23,15 @@ public class WebViewBrowserTabView
             console.log('message sent to JS: ' + event.data);
         }
 
-        function sendMessage()
+        function sendMessage(data)
         {
-            chrome.webview.postMessage('PageLoaded');
+            data = data || ""click"";
+            chrome.webview.postMessage({data});
         }
     </script>
 </head>
 <body onload=""init()"">
-    TEST PAGE...
+    <h1>Hello World</h1>
     <button onclick= ""sendMessage()"" > Send To Studio Pro</button>
     </body>
     </html>";
@@ -48,6 +49,7 @@ public class WebViewBrowserTabView
 
     public void RunNavigationTest()
     {
+        // Need to ensure that the tab is open and the dockablePaneViewModel is instantiated
         dockablePaneViewModel = new TestWebViewTabViewModel("WebView Tab View Browser");
         dockingWindowService.OpenTab(dockablePaneViewModel);
         dockablePaneViewModel!.NavigateToString(WEBVIEW_HTML_MESSAGING_SAMPLE);
@@ -81,10 +83,10 @@ public class WebViewBrowserTabView
 
         void Browser_WebMessageReceived(object? sender, WebMessageReceivedEventArgs e)
         {
-            if (e.WebMessageAsJson.Contains("PageLoaded"))
-            {
-                ShowMessage("Received page loaded event");
-            }
+            //if (e.WebMessageAsJson.Contains("PageLoaded"))
+            //{
+                ShowMessage(e.WebMessageAsJson);
+            //}
         }
 
         internal void NavigateToString(string htmlContent) => webView!.NavigateToString(htmlContent);
